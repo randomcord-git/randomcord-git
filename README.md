@@ -1,58 +1,86 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>PROJECT OVERVIEW · randomcord-git</sub></p>
-<h1>Randomcord</h1>
-<h2>Growing Community & Discord Tooling</h2>
-<p>Building useful software, Discord bots, and community tools in public.</p>
-<p><strong>● Open-source development and building in public</strong></p>
+<p><code>randomcord-git@github ~ $ ./maintainer.sh</code></p>
 
-<p><a href="https://github.com/randomcord-git">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/346077347?u=4a6f6e3471be631e01fdb450d4b1149824554019&amp;v=4" width="180" alt="Randomcord GitHub avatar" />
-</td>
-</tr>
-</table>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="randomcord-git animated maintainer system scan" />
+</picture>
+</p>
 </div>
 
-<h2>What we do at a glance</h2>
+<h2>Why I build in public</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Core focus</h3><p>Discord Bots & Community Tools</p></td>
-<td width="33%" valign="top"><h3>Development</h3><p>Building open-source tools</p></td>
-<td width="33%" valign="top"><h3>Community</h3><p>Empowering online servers & spaces</p></td>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Open source</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>1 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>2 contributions · 1 active days</p></td>
 </tr>
 </table>
 
-<p><sub>Building useful software and sharing the development process in public.</sub></p>
+<p>Building in public, documenting the work, and making the next contribution easier.</p>
 
-<h2>Selected work</h2>
+<h2>Open-source toolbox</h2>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<p><code>randomcord-git@github ~ $ toolbox --list</code></p>
+
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=randomcord-git&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&repos=randomcord-git%2Frandomcord-git&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=randomcord-git&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&repos=randomcord-git%2Frandomcord-git&v=recruiter-projects-1&mode=dark" width="100%" alt="Randomcord selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="randomcord-git open-source technology toolbox" />
 </picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/randomcord-git/randomcord-git">Randomcord Ecosystem</a></h3>
-<p>Main repository and hub for Randomcord initiatives.</p>
-<p><a href="https://github.com/randomcord-git/randomcord-git">Read the repository →</a></p>
-</td>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Tooling will appear as public repositories are indexed.</sub></td>
 </tr>
 </table>
+
+<h2>Repositories worth exploring</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&repos=randomcord-git%2Frandomcord-git&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&repos=randomcord-git%2Frandomcord-git&v=oss-projects-1&mode=dark" width="860" alt="randomcord-git maintainer repositories" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="randomcord-git open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="randomcord-git contribution trail" />
+</picture>
+</p>
 
 <hr />
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s build the next feature</h2><p>Open to collaborations, community feedback, and building tools for Discord.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/randomcord-git">GitHub</a></td>
-</tr>
-</table>
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=randomcord-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346077347%3Fu%3D4a6f6e3471be631e01fdb450d4b1149824554019%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="randomcord-git community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/randomcord-git">GitHub</a></p>
+<p align="center"><sub>randomcord-git · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
