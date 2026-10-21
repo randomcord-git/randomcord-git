@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · randomcord-git</sub></p>
 <h1>randomcord-git</h1>
-<h2>Product-minded developer</h2>
+<h2>Comunity on growup</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
